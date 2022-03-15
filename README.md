@@ -21,4 +21,6 @@ The user just enter the zip code of a city in the US and what he feels about it 
 
 in your terminal run the following:
  > npm install 
+ 
+ 
  > node server.js
